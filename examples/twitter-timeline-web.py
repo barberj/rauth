@@ -1,5 +1,5 @@
 """
-Example to demonstrate using twitter oauth as a desktop app or a web app.
+Example to demonstrate using twitter oauth as a web app.
 
 Be sure to update with your consumer key/secret and your callback.
 """
